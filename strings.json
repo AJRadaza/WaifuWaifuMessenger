@@ -1,0 +1,4 @@
+{
+	"greetings" : "Hello, I am Waifu2x bot powered by Waifu2x API in DeepAI.org. Send a photo and I'll denoise and upscale your photo (works best with anime style artworks.)",
+	"processed" : "Your image has been denoised and upscaled."
+}
